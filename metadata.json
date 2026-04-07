@@ -1,0 +1,8 @@
+{
+  "name": "VerifierAI",
+  "description": "All-in-one AI platform for IELTS preparation, certificate verification, and detailed skill analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,13 +1,20 @@
-VerifierAI | Global Forensic Laboratory
-VerifierAI — bu professional sertifikatlarni tekshirish uchun mo'ljallangan, sun'iy intellektga asoslangan ilg'or ekspertiza tizimi. U IELTS, TOEFL va boshqa xalqaro hujjatlardagi piksel darajasidagi manipulyatsiyalarni, metadata anomaliyalarini va strukturaviy nomuvofiqliklarni aniqlash uchun keng qamrovli vositalarni taqdim etadi.
-🚀 Asosiy Imkoniyatlar
-Neyron Ekspertiza Yadrosi: Piksel darajasidagi manipulyatsiyalarni 99.9% aniqlik bilan aniqlaydi.
-Chuqur Metadata Auditi: Hujjat metadatalarini texnik anomaliyalar va o'zgartirish izlari uchun tahlil qiladi.
-Ko'p Turdagi Sertifikatlar: IELTS, TOEFL, Cambridge English, PTE, Duolingo va boshqa ko'plab sertifikatlar uchun tayyor sozlamalar.
-QR Ekspertiza Skaneri: Sertifikatlarga o'rnatilgan QR kodlarni bevosita skanerlash va tekshirish.
-To'plamli Ishlov Berish (PRO): Yuqori hajmli tekshiruvlar uchun bir vaqtning o'zida 50 tagacha faylni yuklash va tahlil qilish.
-PDF Ekspertiza Hisobotlari: Har bir audit uchun batafsil tahliliy hisobotlarni yaratish va yuklab olish.
-Geymifikatsiya: Auditlar davomida XP to'plang, darajangizni oshiring va kunlik seriyalarni saqlang.
-Admin Boshqaruv Markazi: Sertifikat turlari, audit qoidalari va foydalanuvchi huquqlarini markazlashgan holda boshqarish.
-Ko'p Tilli Tizim: To'liq O'zbek va Ingliz tillarida ishlaydi.
-Professional Qora Mavzu: Laboratoriya muhiti uchun mo'ljallangan, yuqori kontrastli to'liq qora (Pure Black) dizayn.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/7d464f08-5298-4a59-84cd-2758cb4c7c93
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
