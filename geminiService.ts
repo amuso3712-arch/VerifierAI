@@ -1,6 +1,6 @@
 
 import { GoogleGenAI, Type } from "@google/genai";
-import { VerificationResult, CertificateType } from "../types";
+import { VerificationResult, CertificateType } from "./types";
 
 const AUDIT_RULES: Record<string, string> = {
   IELTS: `Siz OLIY DARAJALI IELTS FORENSIK AUDITORISIZ. IELTS TRF haqiqiyligini tekshiring. 

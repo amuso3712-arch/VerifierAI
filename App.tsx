@@ -9,7 +9,7 @@ import {
   getFileFingerprint,
   checkCache,
   saveToCache
-} from './services/geminiService';
+} from './geminiService';
 import { VerificationResult, ProcessingStep, ProcessItem, UserStats, CertificateType, BatchReport, User, Certificate } from './types';
 import { jsPDF } from 'jspdf';
 import 'jspdf-autotable';
